@@ -5089,11 +5089,15 @@
     "explanation": "explanations/2020-08-club/club/Robot.md",
     "cpp_origin": "missing",
     "explanation_authored": false,
-    "cpp_compile": "missing",
-    "sample_test": "not_run",
+    "cpp_compile": "skipped",
+    "sample_test": "skipped",
     "source_sha256": null,
     "python_oracle_cases": 0,
-    "optimization_review": "not_complete"
+    "optimization_review": "skipped",
+    "status": "skipped",
+    "excluded_from_completion": true,
+    "skip_reason": "官方題目、參考程式與詳解連結均未成功取得；使用者指示略過並註記於 README。",
+    "skipped_on": "2026-10-16"
   },
   {
     "id": "2020-08-club/club/Kindergarten",

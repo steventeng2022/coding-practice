@@ -1,6 +1,6 @@
 # 全題狀態表
 
-題目 334 題；C++ 程式 333 份；Python 程式 56 份；獨立繁體中文詳解 56 篇。
+題目 334 題；C++ 程式 333 份；Python 程式 56 份；獨立繁體中文詳解 56 篇。Robot 依使用者指示略過，其餘尚有 277 題待補 Python 與獨立詳解。
 
 「索引」代表尚未撰寫獨立題解；「參考」代表官方 C++ 程式，沒有宣稱最快。未跑範例者不標示 AC。
 
@@ -267,7 +267,7 @@
 | 2020/08/15 新手同好會 | 新手同好會 | 下雪的日子 | [參考](cpp/2020-08-club/club/Snow.cpp) | 待完成 | [索引](explanations/2020-08-club/club/Snow.md) | not_run |
 | 2020/08/15 新手同好會 | 新手同好會 | 俄羅斯方塊 | [參考](cpp/2020-08-club/club/Tetris.cpp) | 待完成 | [索引](explanations/2020-08-club/club/Tetris.md) | not_run |
 | 2020/08/15 新手同好會 | 新手同好會 | 閱讀順序 | [參考](cpp/2020-08-club/club/Reading.cpp) | 待完成 | [索引](explanations/2020-08-club/club/Reading.md) | not_run |
-| 2020/08/15 新手同好會 | 新手同好會 | 居家管理機器人 | 待完成 | 待完成 | [索引](explanations/2020-08-club/club/Robot.md) | not_run |
+| 2020/08/15 新手同好會 | 新手同好會 | 居家管理機器人（依使用者指示略過） | 略過 | 略過 | [略過紀錄](explanations/2020-08-club/club/Robot.md) | skipped |
 | 2020/08/15 新手同好會 | 新手同好會 | 幼稚園 | [參考](cpp/2020-08-club/club/Kindergarten.cpp) | 待完成 | [索引](explanations/2020-08-club/club/Kindergarten.md) | not_run |
 | 2020/08/15 新手同好會 | 新手同好會 | 運送隕石 | [參考](cpp/2020-08-club/club/Delivery.cpp) | 待完成 | [索引](explanations/2020-08-club/club/Delivery.md) | not_run |
 | 2020/06/29~2020/07/03 | 新手組 | 1-點餐系統 | [參考](cpp/2020-06/beginner/OrderingSystem.cpp) | 待完成 | [索引](explanations/2020-06/beginner/OrderingSystem.md) | not_run |
