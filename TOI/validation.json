@@ -1,0 +1,2072 @@
+{
+  "compiler": "Clang 22.1.2, GNU++17, MSVC standard library compatibility header; no online judge submission",
+  "python": "3.12.14",
+  "results": {
+    "2026-06/beginner/Laser": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "7\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "3\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-06/beginner/Pixel": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "1 1 0 0 0 0\n1 1 0 0 0 0\n0 0 1 1 0 0\n0 0 1 1 0 0\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "1 1 1 1 1 1 0 0\n1 1 1 1 1 1 0 0\n1 1 1 1 1 1 0 0\n0 0 0 0 1 1 0 0\n0 0 0 0 1 1 0 0\n0 0 0 0 1 1 0 0\n1 1 0 0 1 1 0 0\n1 1 0 0 1 1 0 0\n1 1 0 0 1 1 0 0\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-06/beginner/Perfumer": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "Floral\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "Floral\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-06/advanced/Driving": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "17\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "12\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "-1\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-06/advanced/Plant2": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "9\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "16\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "13\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-06/advanced/BABA": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "BABA\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "No Solution\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "CCCBCCAABAAABAAA\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "4",
+          "expected": "No Solution\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "5",
+          "expected": "CCCCCCBBBBBBAAAAAA\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-05/beginner/Crystal": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "3 2 1 1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "1 1 1 1 1 1 3 1\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-05/beginner/Waffle": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "20\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-05/beginner/Mining": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "19\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "11\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-05/advanced/Dependency": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "0\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "0\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-05/advanced/Buffet": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "32\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "24\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "32\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-05/advanced/BeatAverage": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "3\n2\n1\n3\n1\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-03/beginner/RedEnvelope": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "2100\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "18200\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-03/beginner/Election": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "2 31\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "2 50\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-03/beginner/Tangyuan": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "2 4\n2 6\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-03/advanced/Bacteria": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "4 4\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "2 3\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "5\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-03/advanced/Tape": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "4\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "0\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2026-03/advanced/Competition": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "A\nC\nA B C\nB\nA\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-12/beginner/BBQ": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "2 2\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "0 1\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-12/beginner/Club": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "DANCE 4\nMUSIC 3\nCODING 2\nDRAMA 2\nPHOTOGRAPHY 1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "DANCE 3\nMUSIC 3\nCODING 3\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-12/beginner/Doodle": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "11\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "17\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-12/advanced/Spacing": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "1 2 1 2 1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "1 1 5 1 5 1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "1 6\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-12/advanced/Tiramisu": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "34\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "310929\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-12/advanced/Singing": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "2\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "5\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "10\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "4",
+          "expected": "0\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-11/beginner/Lotto": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "A\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "B\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "X\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-11/beginner/Runes": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "3\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "not found\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "2\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-11/beginner/RedBeanCake": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "5 1 1 1 1 1 295\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "2 2 2 2 2 0 238\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-11/advanced/Hat": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "2",
+          "expected": "18\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "992\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-11/advanced/Cookies": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "9\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "5\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "5\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "4",
+          "expected": "4\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "5",
+          "expected": "2\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-11/advanced/BeadedCharm": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "2\n10\n8\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "1\n2\n3\n4\n5\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "3\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-09/beginner/power": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "2\n4\n8\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "3\n9\n27\n81\n243\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-09/beginner/perfect": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "6\nperfect\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "16\nnot perfect\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-09/beginner/tea": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "40\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "45\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-09/advanced/cut": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "2\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "0\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "4\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "4",
+          "expected": "6\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-09/advanced/sheet": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "2 ERROR 0\n5 ERROR ERROR\n6 ERROR 0\n8 ERROR 0\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "4 12 20\n13 3 10\n16 5 ERROR\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "7 2\n4 8\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "4",
+          "expected": "0 0\n0 0\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-09/advanced/partition": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "1\n6\n243\n662554012\n515481589\n518260606\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-06/beginner/Tracery": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "1 0 1 1 0 1\n1 1 1 1 1 1\n1 0 1 1 0 1\n1 0 1 1 0 1\n1 1 1 1 1 1\n1 0 1 1 0 1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "1 0 0 0 1 1 0 0 0 1\n1 0 0 0 1 1 0 0 0 1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "1 0 0 0 0 1\n1 1 0 0 1 1\n1 1 0 0 1 1\n1 0 0 0 0 1\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-06/beginner/Lunch": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "0 0\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "2 1\n2 2\n3 3\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "1 3\n2 3\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-06/beginner/Bridge": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "4 3 3 3\n14\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "13 0 0 0\n10\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-06/advanced/Island": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "2\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "9\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "-1\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-06/advanced/Upgrade": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "0\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-06/advanced/Permutation": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "17\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "10751\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "4",
+          "expected": "230980751\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-04/beginner/Recipe": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "200 500 160\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "30 60\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "1928 825 1650\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-04/beginner/Examination": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "B\nA\nC\nA\nA\nC\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "A\nA\nX\nA\nC\nX\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-04/beginner/TreasureBox": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "99\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "7\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-04/advanced/Building": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "162\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "10\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "26\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "4",
+          "expected": "39\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-04/advanced/Pipe": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "15\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "12\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "24\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "4",
+          "expected": "5\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-04/advanced/Supply": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "2\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "-1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "0\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-03/beginner/Gravitation": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "48\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "6\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-03/beginner/MRT": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "266\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "1200\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "650\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-03/beginner/Numbers": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "5 4 8\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "101 121 125\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-03/advanced/Encryption": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "10 6\n4 4\n129 127\n0 0\n3 1\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-03/advanced/Ski": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "2\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "15\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "13\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2025-03/advanced/Police": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "4 9\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "2 16\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "4 10\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "4",
+          "expected": "1 15\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2024-12/beginner/Travel": {
+      "compile": "passed"
+    },
+    "2024-12/beginner/Spices": {
+      "compile": "passed"
+    },
+    "2024-12/beginner/Cipher": {
+      "compile": "passed"
+    },
+    "2024-12/advanced/Factors": {
+      "compile": "passed"
+    },
+    "2024-12/advanced/Language": {
+      "compile": "passed"
+    },
+    "2024-12/advanced/Planet": {
+      "compile": "passed"
+    },
+    "2024-11/beginner/Birthday": {
+      "compile": "passed"
+    },
+    "2024-11/beginner/Market": {
+      "compile": "passed"
+    },
+    "2024-11/beginner/Array": {
+      "compile": "passed"
+    },
+    "2024-11/advanced/Castle": {
+      "compile": "passed"
+    },
+    "2024-11/advanced/Rail": {
+      "compile": "passed"
+    },
+    "2024-11/advanced/CheckIn": {
+      "compile": "passed"
+    },
+    "2024-09/beginner/cheese": {
+      "compile": "passed"
+    },
+    "2024-09/beginner/eScooter": {
+      "compile": "passed"
+    },
+    "2024-09/beginner/factors": {
+      "compile": "passed"
+    },
+    "2024-09/advanced/files": {
+      "compile": "passed"
+    },
+    "2024-09/advanced/trip": {
+      "compile": "passed"
+    },
+    "2024-09/advanced/libra": {
+      "compile": "passed"
+    },
+    "2024-06/beginner/Nonogram": {
+      "compile": "passed"
+    },
+    "2024-06/beginner/Airport": {
+      "compile": "passed"
+    },
+    "2024-06/beginner/Vampire": {
+      "compile": "passed"
+    },
+    "2024-06/advanced/Puzzle": {
+      "compile": "passed"
+    },
+    "2024-06/advanced/MeetingRoom": {
+      "compile": "passed"
+    },
+    "2024-06/advanced/Checkers": {
+      "compile": "passed"
+    },
+    "2024-04/beginner/Cinema": {
+      "compile": "passed"
+    },
+    "2024-04/beginner/Poker": {
+      "compile": "passed"
+    },
+    "2024-04/beginner/Commodity": {
+      "compile": "passed"
+    },
+    "2024-04/advanced/Rainfall": {
+      "compile": "passed"
+    },
+    "2024-04/advanced/Plate": {
+      "compile": "passed"
+    },
+    "2024-04/advanced/Boat": {
+      "compile": "passed"
+    },
+    "2024-03/beginner/The21Game": {
+      "compile": "passed"
+    },
+    "2024-03/beginner/Hotel": {
+      "compile": "passed"
+    },
+    "2024-03/beginner/Primes": {
+      "compile": "passed"
+    },
+    "2024-03/advanced/Index": {
+      "compile": "passed"
+    },
+    "2024-03/advanced/Sculpture": {
+      "compile": "passed"
+    },
+    "2024-03/advanced/CampfireParty": {
+      "compile": "passed"
+    },
+    "2023-12/beginner/Office": {
+      "compile": "passed"
+    },
+    "2023-12/beginner/Mirror": {
+      "compile": "passed"
+    },
+    "2023-12/beginner/Puzzle": {
+      "compile": "passed"
+    },
+    "2023-12/advanced/Cost": {
+      "compile": "passed"
+    },
+    "2023-12/advanced/Chess": {
+      "compile": "passed"
+    },
+    "2023-12/advanced/TreasureBowl": {
+      "compile": "passed"
+    },
+    "2023-12-club/club/Color": {
+      "compile": "passed"
+    },
+    "2023-12-club/club/Game": {
+      "compile": "passed"
+    },
+    "2023-12-club/club/Spy": {
+      "compile": "passed",
+      "reference_only_sample_count": 2
+    },
+    "2023-12-club/club/Chocolate": {
+      "compile": "passed"
+    },
+    "2023-12-club/club/Space": {
+      "compile": "passed"
+    },
+    "2023-12-club/club/Media": {
+      "compile": "passed"
+    },
+    "2023-12-club/club/Gold": {
+      "compile": "passed"
+    },
+    "2023-12-club/club/Equation": {
+      "compile": "passed"
+    },
+    "2023-11/beginner/Werewolves": {
+      "compile": "passed"
+    },
+    "2023-11/beginner/Study": {
+      "compile": "passed"
+    },
+    "2023-11/beginner/Kingdom": {
+      "compile": "passed"
+    },
+    "2023-11/advanced/Art": {
+      "compile": "passed"
+    },
+    "2023-11/advanced/Furniture": {
+      "compile": "passed"
+    },
+    "2023-11/advanced/Combo": {
+      "compile": "passed"
+    },
+    "2023-10/beginner/ClayPotRice": {
+      "compile": "passed"
+    },
+    "2023-10/beginner/BBQ": {
+      "compile": "passed"
+    },
+    "2023-10/beginner/Supermarket": {
+      "compile": "passed"
+    },
+    "2023-10/advanced/Stocks": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "-1 4 -1 -1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "6 6 5 5 -1 -1 -1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "3",
+          "expected": "5 9 7 9 -1 7 -1 -1 -1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "4",
+          "expected": "4 3 4 5 -1 -1\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "5",
+          "expected": "4 4 6 -1 -1 -1\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2023-10/advanced/Power": {
+      "compile": "passed"
+    },
+    "2023-10/advanced/IOT": {
+      "compile": "passed"
+    },
+    "2023-08-club/club/Soda": {
+      "compile": "passed"
+    },
+    "2023-08-club/club/Jewel": {
+      "compile": "passed"
+    },
+    "2023-08-club/club/Collapse": {
+      "compile": "passed"
+    },
+    "2023-08-club/club/Sketch": {
+      "compile": "passed"
+    },
+    "2023-08-club/club/Castle": {
+      "compile": "passed"
+    },
+    "2023-08-club/club/Sudoku": {
+      "compile": "passed"
+    },
+    "2023-08-club/club/Treasure": {
+      "compile": "passed"
+    },
+    "2023-08-club/club/Guard": {
+      "compile": "passed"
+    },
+    "2023-05/beginner/Meeting": {
+      "compile": "passed"
+    },
+    "2023-05/beginner/Escape": {
+      "compile": "passed"
+    },
+    "2023-05/beginner/Pickup": {
+      "compile": "passed"
+    },
+    "2023-05/advanced/Delivery": {
+      "compile": "passed"
+    },
+    "2023-05/advanced/Supply": {
+      "compile": "passed"
+    },
+    "2023-05/advanced/Cargo": {
+      "compile": "passed"
+    },
+    "2023-04/beginner/analysis": {
+      "compile": "passed"
+    },
+    "2023-04/beginner/class": {
+      "compile": "passed"
+    },
+    "2023-04/beginner/target": {
+      "compile": "passed"
+    },
+    "2023-04/advanced/Icebreaker": {
+      "compile": "passed"
+    },
+    "2023-04/advanced/land": {
+      "compile": "passed"
+    },
+    "2023-04/advanced/Name": {
+      "compile": "passed"
+    },
+    "2023-03/beginner/Stock": {
+      "compile": "passed"
+    },
+    "2023-03/beginner/Seven": {
+      "compile": "passed"
+    },
+    "2023-03/beginner/water": {
+      "compile": "passed"
+    },
+    "2023-03/advanced/loan": {
+      "compile": "passed"
+    },
+    "2023-03/advanced/Library": {
+      "compile": "passed"
+    },
+    "2023-03/advanced/overweight": {
+      "compile": "passed"
+    },
+    "2022-12-club/club/Parking": {
+      "compile": "passed"
+    },
+    "2022-12-club/club/Medicine": {
+      "compile": "passed"
+    },
+    "2022-12-club/club/Title": {
+      "compile": "passed"
+    },
+    "2022-12-club/club/Sqrt": {
+      "compile": "passed"
+    },
+    "2022-12-club/club/Wave": {
+      "compile": "passed"
+    },
+    "2022-12-club/club/Cake": {
+      "compile": "passed"
+    },
+    "2022-12-club/club/Ticket": {
+      "compile": "passed"
+    },
+    "2022-12-club/club/Base": {
+      "compile": "passed"
+    },
+    "2022-12/beginner/Ore": {
+      "compile": "passed"
+    },
+    "2022-12/beginner/Factory": {
+      "compile": "passed"
+    },
+    "2022-12/beginner/Market": {
+      "compile": "passed"
+    },
+    "2022-12/advanced/BST": {
+      "compile": "passed"
+    },
+    "2022-12/advanced/Ants": {
+      "compile": "passed"
+    },
+    "2022-12/advanced/Numbers": {
+      "compile": "passed"
+    },
+    "2022-11/beginner/Farm": {
+      "compile": "passed"
+    },
+    "2022-11/beginner/Web": {
+      "compile": "passed"
+    },
+    "2022-11/beginner/Blocks": {
+      "compile": "passed"
+    },
+    "2022-11/advanced/Cycle": {
+      "compile": "passed"
+    },
+    "2022-11/advanced/Serving": {
+      "compile": "passed"
+    },
+    "2022-11/advanced/Selling": {
+      "compile": "passed"
+    },
+    "2022-10/beginner/Advertisement": {
+      "compile": "passed"
+    },
+    "2022-10/beginner/Classification": {
+      "compile": "passed"
+    },
+    "2022-10/beginner/Food": {
+      "compile": "passed"
+    },
+    "2022-10/advanced/Center": {
+      "compile": "passed"
+    },
+    "2022-10/advanced/Cards": {
+      "compile": "passed"
+    },
+    "2022-10/advanced/Pyramid": {
+      "compile": "passed"
+    },
+    "2022-08-club/club/Combination": {
+      "compile": "passed"
+    },
+    "2022-08-club/club/Adventure": {
+      "compile": "passed"
+    },
+    "2022-08-club/club/Correction": {
+      "compile": "passed"
+    },
+    "2022-08-club/club/Station": {
+      "compile": "passed"
+    },
+    "2022-08-club/club/Icon": {
+      "compile": "passed"
+    },
+    "2022-08-club/club/Puzzle": {
+      "compile": "passed"
+    },
+    "2022-08-club/club/Fence": {
+      "compile": "passed"
+    },
+    "2022-08-club/club/Honey": {
+      "compile": "passed"
+    },
+    "2022-05/beginner/Treasure": {
+      "compile": "passed"
+    },
+    "2022-05/beginner/Word": {
+      "compile": "passed"
+    },
+    "2022-05/beginner/Symmetry": {
+      "compile": "passed"
+    },
+    "2022-05/advanced/Activity": {
+      "compile": "passed"
+    },
+    "2022-05/advanced/Skywalk": {
+      "compile": "passed"
+    },
+    "2022-05/advanced/Refueling": {
+      "compile": "passed"
+    },
+    "2022-04/beginner/Stones": {
+      "compile": "passed"
+    },
+    "2022-04/beginner/Match": {
+      "compile": "passed"
+    },
+    "2022-04/beginner/Landscape": {
+      "compile": "passed"
+    },
+    "2022-04/advanced/Painter": {
+      "compile": "passed"
+    },
+    "2022-04/advanced/Cards": {
+      "compile": "passed"
+    },
+    "2022-04/advanced/Defense": {
+      "compile": "passed"
+    },
+    "2022-03/beginner/Fishing": {
+      "compile": "passed"
+    },
+    "2022-03/beginner/Taxi": {
+      "compile": "passed"
+    },
+    "2022-03/beginner/DodgeBall": {
+      "compile": "passed"
+    },
+    "2022-03/advanced/Shooting": {
+      "compile": "passed"
+    },
+    "2022-03/advanced/Soldiers": {
+      "compile": "passed"
+    },
+    "2022-03/advanced/Hanoi": {
+      "compile": "passed"
+    },
+    "2022-01/beginner/Noise": {
+      "compile": "passed"
+    },
+    "2022-01/beginner/Banquet": {
+      "compile": "passed"
+    },
+    "2022-01/beginner/Night Market": {
+      "compile": "passed"
+    },
+    "2022-01/advanced/Forest": {
+      "compile": "passed"
+    },
+    "2022-01/advanced/Fishing": {
+      "compile": "passed"
+    },
+    "2022-01/advanced/Freeze": {
+      "compile": "passed"
+    },
+    "2021-11/beginner/Files": {
+      "compile": "passed"
+    },
+    "2021-11/beginner/Cards": {
+      "compile": "passed"
+    },
+    "2021-11/beginner/Business": {
+      "compile": "passed"
+    },
+    "2021-11/advanced/Casting": {
+      "compile": "passed"
+    },
+    "2021-11/advanced/School Team": {
+      "compile": "passed"
+    },
+    "2021-11/advanced/Material": {
+      "compile": "passed"
+    },
+    "2021-10-club/club/Rent": {
+      "compile": "passed"
+    },
+    "2021-10-club/club/Card": {
+      "compile": "passed"
+    },
+    "2021-10-club/club/Domino": {
+      "compile": "passed"
+    },
+    "2021-10-club/club/Checkers": {
+      "compile": "passed"
+    },
+    "2021-10-club/club/Identification": {
+      "compile": "passed"
+    },
+    "2021-10-club/club/Tapes": {
+      "compile": "passed"
+    },
+    "2021-10-club/club/Live": {
+      "compile": "passed"
+    },
+    "2021-10-club/club/Nonogram": {
+      "compile": "passed"
+    },
+    "2021-10/beginner/Comet": {
+      "compile": "passed"
+    },
+    "2021-10/beginner/Elevator": {
+      "compile": "passed"
+    },
+    "2021-10/beginner/Rabbit": {
+      "compile": "passed"
+    },
+    "2021-10/advanced/Hamburger": {
+      "compile": "passed"
+    },
+    "2021-10/advanced/Storage Box": {
+      "compile": "passed"
+    },
+    "2021-10/advanced/Travel": {
+      "compile": "passed"
+    },
+    "2021-06/beginner/Popularity": {
+      "compile": "passed"
+    },
+    "2021-06/beginner/Inversion": {
+      "compile": "passed"
+    },
+    "2021-06/beginner/Password": {
+      "compile": "passed"
+    },
+    "2021-06/advanced/Tsunami": {
+      "compile": "passed"
+    },
+    "2021-06/advanced/Maze": {
+      "compile": "passed"
+    },
+    "2021-06/advanced/Zero": {
+      "compile": "passed"
+    },
+    "2021-04/beginner/Library": {
+      "compile": "passed"
+    },
+    "2021-04/beginner/Survival": {
+      "compile": "passed"
+    },
+    "2021-04/beginner/Sports": {
+      "compile": "passed"
+    },
+    "2021-04/advanced/Branch": {
+      "compile": "passed"
+    },
+    "2021-04/advanced/YouTube": {
+      "compile": "passed"
+    },
+    "2021-04/advanced/Game": {
+      "compile": "passed"
+    },
+    "2021-03/beginner/Zone": {
+      "compile": "passed"
+    },
+    "2021-03/beginner/Lucky Seven": {
+      "compile": "passed"
+    },
+    "2021-03/beginner/Insect": {
+      "compile": "passed"
+    },
+    "2021-03/advanced/Extension Cord": {
+      "compile": "passed"
+    },
+    "2021-03/advanced/Farmland": {
+      "compile": "passed"
+    },
+    "2021-03/advanced/Flight": {
+      "compile": "passed"
+    },
+    "2020-12/beginner/Spelling": {
+      "compile": "passed"
+    },
+    "2020-12/beginner/Abbreviation": {
+      "compile": "passed"
+    },
+    "2020-12/beginner/Flag": {
+      "compile": "passed"
+    },
+    "2020-12/advanced/Meteorite": {
+      "compile": "passed"
+    },
+    "2020-12/advanced/Zipline": {
+      "compile": "passed"
+    },
+    "2020-12/advanced/Race": {
+      "compile": "passed"
+    },
+    "2020-11/beginner/Score": {
+      "compile": "passed"
+    },
+    "2020-11/beginner/Eagle": {
+      "compile": "passed"
+    },
+    "2020-11/beginner/Merchandise": {
+      "compile": "passed"
+    },
+    "2020-11/advanced/Classmates": {
+      "compile": "passed"
+    },
+    "2020-11/advanced/Game Map": {
+      "compile": "passed"
+    },
+    "2020-11/advanced/Wrapper": {
+      "compile": "passed"
+    },
+    "2020-10/beginner/Grouping": {
+      "compile": "passed"
+    },
+    "2020-10/beginner/Fertilizer": {
+      "compile": "passed"
+    },
+    "2020-10/beginner/Anniversary": {
+      "compile": "passed"
+    },
+    "2020-10/advanced/Coloring": {
+      "compile": "passed"
+    },
+    "2020-10/advanced/Knight": {
+      "compile": "passed"
+    },
+    "2020-10/advanced/JSON": {
+      "compile": "passed"
+    },
+    "2020-08-club/club/Party": {
+      "compile": "passed"
+    },
+    "2020-08-club/club/Archer": {
+      "compile": "passed"
+    },
+    "2020-08-club/club/Snow": {
+      "compile": "passed"
+    },
+    "2020-08-club/club/Tetris": {
+      "compile": "passed"
+    },
+    "2020-08-club/club/Reading": {
+      "compile": "passed"
+    },
+    "2020-08-club/club/Robot": {
+      "compile": "missing"
+    },
+    "2020-08-club/club/Kindergarten": {
+      "compile": "passed"
+    },
+    "2020-08-club/club/Delivery": {
+      "compile": "passed"
+    },
+    "2020-06/beginner/OrderingSystem": {
+      "compile": "passed"
+    },
+    "2020-06/beginner/Orienteering": {
+      "compile": "passed"
+    },
+    "2020-06/beginner/Detector": {
+      "compile": "passed"
+    },
+    "2020-06/advanced/Plant": {
+      "compile": "passed"
+    },
+    "2020-06/advanced/Cake": {
+      "compile": "passed"
+    },
+    "2020-06/advanced/Cuisine": {
+      "compile": "passed"
+    },
+    "2020-05/beginner/HanXin": {
+      "compile": "passed"
+    },
+    "2020-05/beginner/Lottery": {
+      "compile": "passed"
+    },
+    "2020-05/beginner/Garden": {
+      "compile": "passed"
+    },
+    "2020-05/advanced/Dog": {
+      "compile": "passed"
+    },
+    "2020-05/advanced/Happy-Number": {
+      "compile": "passed"
+    },
+    "2020-05/advanced/Sum": {
+      "compile": "passed"
+    },
+    "2020-04/beginner/B1-Homework": {
+      "compile": "passed"
+    },
+    "2020-04/beginner/B2-Slime": {
+      "compile": "passed"
+    },
+    "2020-04/beginner/B3-Verification": {
+      "compile": "passed"
+    },
+    "2020-04/advanced/A1-Club": {
+      "compile": "passed"
+    },
+    "2020-04/advanced/A2-Treasure": {
+      "compile": "passed"
+    },
+    "2020-04/advanced/A3-Escape": {
+      "compile": "passed",
+      "python_syntax": "passed",
+      "samples": [
+        {
+          "number": "1",
+          "expected": "Easy Peasy\n",
+          "python": "passed",
+          "cpp": "passed"
+        },
+        {
+          "number": "2",
+          "expected": "Impossible\n",
+          "python": "passed",
+          "cpp": "passed"
+        }
+      ]
+    },
+    "2019-12/beginner/B1-Palindrome": {
+      "compile": "passed"
+    },
+    "2019-12/beginner/B2-Map": {
+      "compile": "passed"
+    },
+    "2019-12/beginner/B3-Ceremony": {
+      "compile": "passed"
+    },
+    "2019-12/advanced/A1-Warehouse": {
+      "compile": "passed"
+    },
+    "2019-12/advanced/A2-Cut": {
+      "compile": "passed"
+    },
+    "2019-12/advanced/A3-Trip": {
+      "compile": "passed"
+    },
+    "2019-12-club/club/1-GoldenRatio": {
+      "compile": "passed"
+    },
+    "2019-12-club/club/2-PrimeDay": {
+      "compile": "passed"
+    },
+    "2019-12-club/club/3-BusStop": {
+      "compile": "passed"
+    },
+    "2019-12-club/club/4-DigitalLogic": {
+      "compile": "passed"
+    },
+    "2019-12-club/club/5-CNN": {
+      "compile": "passed"
+    },
+    "2019-12-club/club/6-BitMap": {
+      "compile": "passed"
+    },
+    "2019-12-club/club/7-Videos": {
+      "compile": "passed"
+    },
+    "2019-12-club/club/8-Schedule": {
+      "compile": "passed"
+    },
+    "2019-11/beginner/B1-Polynomial": {
+      "compile": "passed"
+    },
+    "2019-11/beginner/B2-Rainfall": {
+      "compile": "passed"
+    },
+    "2019-11/beginner/B3-Bus": {
+      "compile": "passed"
+    },
+    "2019-11/advanced/A1-Letters": {
+      "compile": "passed"
+    },
+    "2019-11/advanced/A2-Diving": {
+      "compile": "passed"
+    },
+    "2019-11/advanced/A3-Password": {
+      "compile": "passed"
+    },
+    "2019-10/beginner/B1-FreeParking": {
+      "compile": "passed"
+    },
+    "2019-10/beginner/B2-PPAP": {
+      "compile": "passed"
+    },
+    "2019-10/beginner/B3-Master": {
+      "compile": "passed"
+    },
+    "2019-10/advanced/A1-Fans": {
+      "compile": "passed"
+    },
+    "2019-10/advanced/A2-Roads": {
+      "compile": "passed"
+    },
+    "2019-10/advanced/A3-Typing": {
+      "compile": "passed"
+    },
+    "2019-08-club/club/1-Wholesale": {
+      "compile": "passed"
+    },
+    "2019-08-club/club/2-Seats": {
+      "compile": "passed"
+    },
+    "2019-08-club/club/3-Counting": {
+      "compile": "passed"
+    },
+    "2019-08-club/club/4-Letters": {
+      "compile": "passed"
+    },
+    "2019-08-club/club/5-Bombs": {
+      "compile": "passed"
+    },
+    "2019-08-club/club/6-Food": {
+      "compile": "passed"
+    },
+    "2019-08-club/club/7-Passwords": {
+      "compile": "passed"
+    },
+    "2019-08-club/club/8-Treasure": {
+      "compile": "passed"
+    },
+    "2019-05/beginner/B1-Currency": {
+      "compile": "passed"
+    },
+    "2019-05/beginner/B2-Seats": {
+      "compile": "passed"
+    },
+    "2019-05/beginner/B3-Love": {
+      "compile": "passed"
+    },
+    "2019-05/advanced/A1-Bits": {
+      "compile": "passed"
+    },
+    "2019-05/advanced/A2-Bonus": {
+      "compile": "passed"
+    },
+    "2019-05/advanced/A3-Logic": {
+      "compile": "passed"
+    },
+    "2019-04/beginner/B1-LuckyDraw": {
+      "compile": "passed"
+    },
+    "2019-04/beginner/B2-Coloring": {
+      "compile": "passed"
+    },
+    "2019-04/beginner/B3-SurveyOfSatisfaction": {
+      "compile": "passed"
+    },
+    "2019-04/advanced/A1-FarmlandIrrigating": {
+      "compile": "passed"
+    },
+    "2019-04/advanced/A2-Bonus": {
+      "compile": "passed"
+    },
+    "2019-04/advanced/A3-KeyPlanet": {
+      "compile": "passed"
+    },
+    "2019-03/beginner/B1-BMR": {
+      "compile": "passed"
+    },
+    "2019-03/beginner/B2-StudentList": {
+      "compile": "passed"
+    },
+    "2019-03/beginner/B3-BigEater": {
+      "compile": "passed"
+    },
+    "2019-03/advanced/A1-Classroom": {
+      "compile": "passed"
+    },
+    "2019-03/advanced/A2-QueenBee": {
+      "compile": "passed"
+    },
+    "2019-03/advanced/A3-StoneGame": {
+      "compile": "passed"
+    }
+  },
+  "date": "2026-10-16",
+  "oracle_tests": {
+    "seed": 20261016,
+    "python_oracle_cases": {
+      "BABA": 372,
+      "Mining": 120,
+      "Plant2": 240,
+      "Singing": 120,
+      "Ski": 120,
+      "Stocks": 120,
+      "Pipe": 120,
+      "Buffet": 120,
+      "BeadedCharm": 120,
+      "Driving": 120,
+      "Dependency": 120,
+      "A3-Escape": 120,
+      "Permutation": 120,
+      "BeatAverage": 120,
+      "Building": 120,
+      "sheet": 3,
+      "Encryption": 243
+    },
+    "total": 2418,
+    "failures": []
+  }
+}

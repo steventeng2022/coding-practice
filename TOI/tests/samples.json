@@ -1,0 +1,840 @@
+{
+  "2026-06/beginner/Laser": [
+    {
+      "input": "4 4\n..L.\n##..\nRR.R\n..L.\n",
+      "output": "7\n",
+      "number": "1"
+    },
+    {
+      "input": "2 8\n.L......\n#R......\n",
+      "output": "3\n",
+      "number": "2"
+    }
+  ],
+  "2026-06/beginner/Pixel": [
+    {
+      "input": "2 3 2 2\n1 0 0\n0 1 0\n",
+      "output": "1 1 0 0 0 0\n1 1 0 0 0 0\n0 0 1 1 0 0\n0 0 1 1 0 0\n",
+      "number": "1"
+    },
+    {
+      "input": "3 4 3 2\n1 1 1 0\n0 0 1 0\n1 0 1 0\n",
+      "output": "1 1 1 1 1 1 0 0\n1 1 1 1 1 1 0 0\n1 1 1 1 1 1 0 0\n0 0 0 0 1 1 0 0\n0 0 0 0 1 1 0 0\n0 0 0 0 1 1 0 0\n1 1 0 0 1 1 0 0\n1 1 0 0 1 1 0 0\n1 1 0 0 1 1 0 0\n",
+      "number": "2"
+    }
+  ],
+  "2026-06/beginner/Perfumer": [
+    {
+      "input": "3\nFloral 3\nRose Jasmine Lily\nFruity 2\nApple Peach\nWoody 2\nCedar Sandalwood\n4\nRose 10\nApple 15\nJasmine 8\nCedar 12\n",
+      "output": "Floral\n",
+      "number": "1"
+    },
+    {
+      "input": "2\nFloral 2\nRose Jasmine\nFruity 2\nApple Peach\n2\nPeach 10\nJasmine 10\n",
+      "output": "Floral\n",
+      "number": "2"
+    }
+  ],
+  "2026-06/advanced/Driving": [
+    {
+      "input": "6 4\n0 3 1 0\n2 -1 0 5\n6 1 1 5\n3 1 7 4\n-1 1 1 5\n-1 3 2 0\n",
+      "output": "17\n",
+      "number": "1"
+    },
+    {
+      "input": "2 6\n0 8 1 2 1 0\n2 1 1 9 3 0\n",
+      "output": "12\n",
+      "number": "2"
+    },
+    {
+      "input": "6 4\n0 3 1 0\n2 -1 0 5\n6 1 1 5\n3 1 7 4\n-1 1 -1 -1\n-1 3 -1 0\n",
+      "output": "-1\n",
+      "number": "3"
+    }
+  ],
+  "2026-06/advanced/Plant2": [
+    {
+      "input": "6 6 1\n0 1 1 0 0 0\n0 1 1 1 0 0\n1 1 1 1 1 0\n0 1 1 1 1 1\n1 1 0 1 1 0\n0 1 1 1 1 1\n",
+      "output": "9\n",
+      "number": "1"
+    },
+    {
+      "input": "6 6 2\n0 1 1 0 0 0\n0 1 1 1 0 0\n1 1 1 1 1 0\n0 1 1 1 1 1\n1 1 0 1 1 0\n0 1 1 1 1 1\n",
+      "output": "16\n",
+      "number": "2"
+    },
+    {
+      "input": "8 5 2\n0 1 1 0 1\n1 1 1 0 1\n1 1 1 1 1\n0 0 1 0 1\n0 0 1 0 0\n0 0 1 1 1\n1 0 1 1 1\n1 1 0 1 1\n",
+      "output": "13\n",
+      "number": "3"
+    }
+  ],
+  "2026-06/advanced/BABA": [
+    {
+      "input": "2 2 0 1\n",
+      "output": "BABA\n",
+      "number": "1"
+    },
+    {
+      "input": "2 21 2 3\n",
+      "output": "No Solution\n",
+      "number": "2"
+    },
+    {
+      "input": "8 3 5 3\n",
+      "output": "CCCBCCAABAAABAAA\n",
+      "number": "3"
+    },
+    {
+      "input": "0 0 5 4\n",
+      "output": "No Solution\n",
+      "number": "4"
+    },
+    {
+      "input": "6 6 6 6\n",
+      "output": "CCCCCCBBBBBBAAAAAA\n",
+      "number": "5"
+    }
+  ],
+  "2026-05/beginner/Crystal": [
+    {
+      "input": "7\n6 6 6 3 3 8 4\n",
+      "output": "3 2 1 1\n",
+      "number": "1"
+    },
+    {
+      "input": "10\n1 2 1 2 1 2 3 3 3 1\n",
+      "output": "1 1 1 1 1 1 3 1\n",
+      "number": "2"
+    }
+  ],
+  "2026-05/beginner/Waffle": [
+    {
+      "input": "10 15\n3\n1\n2\n1\n",
+      "output": "20\n",
+      "number": "1"
+    }
+  ],
+  "2026-05/beginner/Mining": [
+    {
+      "input": "5 3\n7 3 5 9 10\n",
+      "output": "19\n",
+      "number": "1"
+    },
+    {
+      "input": "2 10\n4 2\n",
+      "output": "11\n",
+      "number": "2"
+    }
+  ],
+  "2026-05/advanced/Dependency": [
+    {
+      "input": "4 4\n1 2\n1 3\n2 4\n3 4\n",
+      "output": "1\n",
+      "number": "1"
+    },
+    {
+      "input": "4 4\n1 2\n1 3\n2 3\n3 4\n",
+      "output": "0\n",
+      "number": "2"
+    },
+    {
+      "input": "5 5\n5 1\n3 4\n5 4\n2 5\n1 3\n",
+      "output": "0\n",
+      "number": "3"
+    }
+  ],
+  "2026-05/advanced/Buffet": [
+    {
+      "input": "3 15 2\n3\n1 2\n3 4\n4 2\n3\n2 5\n3 9\n3 7\n2\n5 9\n2 5\n",
+      "output": "32\n",
+      "number": "1"
+    },
+    {
+      "input": "2 10 2\n3\n8 20\n5 10\n4 9\n2\n6 15\n3 5\n",
+      "output": "24\n",
+      "number": "2"
+    },
+    {
+      "input": "3 20 1\n3\n2 10\n3 15\n5 20\n2\n10 5\n8 4\n2\n7 8\n6 7\n",
+      "output": "32\n",
+      "number": "3"
+    }
+  ],
+  "2026-05/advanced/BeatAverage": [
+    {
+      "input": "6 12\n245 243 246 250 252 248\n1 1 13 A\n1 1 -3 B\n2 1 6 A\n2 1 6 B\n1 1 5 A\n1 1 -5 B\n1 1 10 A\n2 1 6 A\n1 1 7 B\n1 1 3 A\n2 1 6 B\n2 1 6 A\n",
+      "output": "3\n2\n1\n3\n1\n",
+      "number": "1"
+    }
+  ],
+  "2026-03/beginner/RedEnvelope": [
+    {
+      "input": "1\n1 0 2\n",
+      "output": "2100\n",
+      "number": "1"
+    },
+    {
+      "input": "3\n6 6 6\n0 0 2\n6 0 6\n",
+      "output": "18200\n",
+      "number": "2"
+    }
+  ],
+  "2026-03/beginner/Election": [
+    {
+      "input": "3\n10000 5000 20\n25000 24000 10\n20000 30000 31\n",
+      "output": "2 31\n",
+      "number": "1"
+    },
+    {
+      "input": "10\n2 1 3\n3 1 3\n4 1 3\n5 1 3\n6 1 3\n7 1 3\n8 1 3\n9 1 3\n10000 1 25\n10 2000 50\n",
+      "output": "2 50\n",
+      "number": "2"
+    }
+  ],
+  "2026-03/beginner/Tangyuan": [
+    {
+      "input": "5\n2 2\n0 4\n6 0\n5 5\n3 3\n",
+      "output": "2 4\n2 6\n",
+      "number": "1"
+    }
+  ],
+  "2026-03/advanced/Bacteria": [
+    {
+      "input": "4 3 2 2\n1 -1 0\n0 0 -1\n0 0 0\n0 2 -1\n",
+      "output": "4 4\n",
+      "number": "1"
+    },
+    {
+      "input": "4 3 2 1\n1 -1 0\n0 0 -1\n0 0 0\n0 2 -1\n",
+      "output": "2 3\n",
+      "number": "2"
+    },
+    {
+      "input": "3 3 1 3\n0 0 0\n-1 0 -1\n0 0 1\n",
+      "output": "5\n",
+      "number": "3"
+    }
+  ],
+  "2026-03/advanced/Tape": [
+    {
+      "input": "19\n1 2 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1\naacbbddddbcccbabcbd\n",
+      "output": "4\n",
+      "number": "1"
+    },
+    {
+      "input": "10\n1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1\naaaaaaaaaa\n",
+      "output": "0\n",
+      "number": "2"
+    }
+  ],
+  "2026-03/advanced/Competition": [
+    {
+      "input": "5\n8 1 1\n1 3 2\n2 2 4\n1234 1265 1246\n99999999999 10000000000 1000000000000\n",
+      "output": "A\nC\nA B C\nB\nA\n",
+      "number": "1"
+    }
+  ],
+  "2025-12/beginner/BBQ": [
+    {
+      "input": "10 2\n1 1 1 1 1 2 2 2 2 4\n5 1 1 1 1 2\n5 2 2 2 3 3\n",
+      "output": "2 2\n",
+      "number": "1"
+    },
+    {
+      "input": "5 1\n1 2 3 4 5\n4 1 2 3 4\n",
+      "output": "0 1\n",
+      "number": "2"
+    }
+  ],
+  "2025-12/beginner/Club": [
+    {
+      "input": "4 5\nDANCE\nMUSIC\nCODING\nDRAMA\nPHOTOGRAPHY\nMUSIC DRAMA DANCE\nDANCE MUSIC PHOTOGRAPHY\nMUSIC CODING DANCE\nDRAMA DANCE CODING\n",
+      "output": "DANCE 4\nMUSIC 3\nCODING 2\nDRAMA 2\nPHOTOGRAPHY 1\n",
+      "number": "1"
+    },
+    {
+      "input": "4 3\nDANCE\nMUSIC\nCODING\nMUSIC DANCE DANCE\nDANCE MUSIC CODING\nMUSIC CODING CODING\nDANCE DANCE CODING\n",
+      "output": "DANCE 3\nMUSIC 3\nCODING 3\n",
+      "number": "2"
+    }
+  ],
+  "2025-12/beginner/Doodle": [
+    {
+      "input": "6 6\n1 0 0 0 0 0\n1 1 1 1 0 0\n0 0 0 1 0 0\n0 0 0 1 0 0\n0 0 0 1 1 0\n0 0 0 0 1 1\n",
+      "output": "11\n",
+      "number": "1"
+    },
+    {
+      "input": "8 8\n1 1 1 0 1 0 0 0\n0 0 1 0 1 1 1 1\n0 0 1 1 0 0 0 0\n0 0 0 1 0 0 0 0\n0 0 0 1 0 0 0 0\n1 1 0 1 0 1 1 1\n0 1 0 1 1 1 0 1\n0 1 0 0 0 0 0 1\n",
+      "output": "17\n",
+      "number": "2"
+    }
+  ],
+  "2025-12/advanced/Spacing": [
+    {
+      "input": "5 5\n2 4 1 4 3\n0 1 2 3 4\n",
+      "output": "1 2 1 2 1\n",
+      "number": "1"
+    },
+    {
+      "input": "6 6\n5 3 2 2 1 5\n2 1 5 4 0 3\n",
+      "output": "1 1 5 1 5 1\n",
+      "number": "2"
+    },
+    {
+      "input": "7 2\n7 2 3 4 5 6 7\n4 6\n",
+      "output": "1 6\n",
+      "number": "3"
+    }
+  ],
+  "2025-12/advanced/Tiramisu": [
+    {
+      "input": "6 5\n0 5 1 5 3 4 5 6 5 5 7 6\n0 2 2 3 5 2 6 3 7 3\n",
+      "output": "34\n",
+      "number": "1"
+    },
+    {
+      "input": "4 2\n0 121 11 48 364 255 1001 100\n0 12 1001 12\n",
+      "output": "310929\n",
+      "number": "2"
+    }
+  ],
+  "2025-12/advanced/Singing": [
+    {
+      "input": "3\n0 -2\n3 -1\n3 2\n",
+      "output": "2\n",
+      "number": "1"
+    },
+    {
+      "input": "4\n3 4\n2 2\n-3 -3\n5 4\n",
+      "output": "5\n",
+      "number": "2"
+    },
+    {
+      "input": "5\n0 0\n0 0\n0 0\n0 0\n0 0\n",
+      "output": "10\n",
+      "number": "3"
+    },
+    {
+      "input": "3\n0 -1\n-1 0\n-1 -1\n",
+      "output": "0\n",
+      "number": "4"
+    }
+  ],
+  "2025-11/beginner/Lotto": [
+    {
+      "input": "3 10 20 25 9 23\n3 10 20 25 9 23 11\n",
+      "output": "A\n",
+      "number": "1"
+    },
+    {
+      "input": "11 3 10 20 25 9\n3 10 20 25 9 23 11\n",
+      "output": "B\n",
+      "number": "2"
+    },
+    {
+      "input": "3 10 20 25 9 11\n3 10 12 14 6 8 5\n",
+      "output": "X\n",
+      "number": "3"
+    }
+  ],
+  "2025-11/beginner/Runes": [
+    {
+      "input": "8 3\n5 6 8 1 2 3 6 9\n8 1 2\n",
+      "output": "3\n",
+      "number": "1"
+    },
+    {
+      "input": "9 4\n1 2 3 4 5 4 3 2 1\n1 2 3 6\n",
+      "output": "not found\n",
+      "number": "2"
+    },
+    {
+      "input": "6 2\n1 2 1 2 1 2\n2 1\n",
+      "output": "2\n",
+      "number": "3"
+    }
+  ],
+  "2025-11/beginner/RedBeanCake": [
+    {
+      "input": "10\n0 0 1 2 3 0 0 0 4 5\n",
+      "output": "5 1 1 1 1 1 295\n",
+      "number": "1"
+    },
+    {
+      "input": "10\n3 3 1 2 0 4 1 2 4 0\n",
+      "output": "2 2 2 2 2 0 238\n",
+      "number": "2"
+    }
+  ],
+  "2025-11/advanced/Hat": [
+    {
+      "input": "6\n1 2 2 2 3 8\n",
+      "output": "18\n",
+      "number": "2"
+    },
+    {
+      "input": "10\n3 3 3 726 255 0 255 1 1 1\n",
+      "output": "992\n",
+      "number": "3"
+    }
+  ],
+  "2025-11/advanced/Cookies": [
+    {
+      "input": "2 14\n2 1\n5 4\n",
+      "output": "9\n",
+      "number": "1"
+    },
+    {
+      "input": "2 8\n5 4\n3 1\n",
+      "output": "5\n",
+      "number": "2"
+    },
+    {
+      "input": "6 8\n2 1\n3 1\n4 3\n5 4\n5 5\n4 1\n",
+      "output": "5\n",
+      "number": "3"
+    },
+    {
+      "input": "7 7\n5 3\n3 3\n4 1\n5 1\n3 1\n5 2\n4 4\n",
+      "output": "4\n",
+      "number": "4"
+    },
+    {
+      "input": "1 1\n2 5\n",
+      "output": "2\n",
+      "number": "5"
+    }
+  ],
+  "2025-11/advanced/BeadedCharm": [
+    {
+      "input": "10 11 3\n0 1\n1 2\n2 3\n3 4\n4 5\n2 4\n4 7\n2 7\n6 7\n7 8\n8 9\n1 2\n4 7\n7 8\n",
+      "output": "2\n10\n8\n",
+      "number": "1"
+    },
+    {
+      "input": "6 5 5\n0 1\n1 2\n2 3\n3 4\n4 5\n0 1\n1 2\n2 3\n3 4\n4 5\n",
+      "output": "1\n2\n3\n4\n5\n",
+      "number": "2"
+    },
+    {
+      "input": "3 3 1\n0 1\n1 2\n0 2\n0 2\n",
+      "output": "3\n",
+      "number": "3"
+    }
+  ],
+  "2025-09/beginner/power": [
+    {
+      "input": "2 10\n",
+      "output": "2\n4\n8\n",
+      "number": "1"
+    },
+    {
+      "input": "3 243\n",
+      "output": "3\n9\n27\n81\n243\n",
+      "number": "2"
+    }
+  ],
+  "2025-09/beginner/perfect": [
+    {
+      "input": "6\n",
+      "output": "6\nperfect\n",
+      "number": "1"
+    },
+    {
+      "input": "12\n",
+      "output": "16\nnot perfect\n",
+      "number": "2"
+    }
+  ],
+  "2025-09/beginner/tea": [
+    {
+      "input": "50 30 8 0\n",
+      "output": "40\n",
+      "number": "1"
+    },
+    {
+      "input": "50 10 12 1\n",
+      "output": "45\n",
+      "number": "2"
+    }
+  ],
+  "2025-09/advanced/cut": [
+    {
+      "input": "5\n1 2 3 4 5\n4 5 2 3 1\n",
+      "output": "2\n",
+      "number": "1"
+    },
+    {
+      "input": "3\n1 2 3\n1 2 3\n",
+      "output": "0\n",
+      "number": "2"
+    },
+    {
+      "input": "6\n9 1 2 6 4 8\n2 6 1 9 8 4\n",
+      "output": "4\n",
+      "number": "3"
+    },
+    {
+      "input": "7\n1 2 3 4 5 6 7\n7 6 5 4 3 2 1\n",
+      "output": "6\n",
+      "number": "4"
+    }
+  ],
+  "2025-09/advanced/sheet": [
+    {
+      "input": "4 3\n2 =B4+1 0\n=A1+3 =B1+1 =C2+C3\n=A2+1 =B2+1 0\n=A3+2 =B3+1 0\n",
+      "output": "2 ERROR 0\n5 ERROR ERROR\n6 ERROR 0\n8 ERROR 0\n",
+      "number": "1"
+    },
+    {
+      "input": "3 3\n4 =A1+8 =7+A2\n=5+8 3 =6+4\n=3+A2 5 =C3+C3\n",
+      "output": "4 12 20\n13 3 10\n16 5 ERROR\n",
+      "number": "2"
+    },
+    {
+      "input": "2 2\n=1+6 2\n4 =6+2\n",
+      "output": "7 2\n4 8\n",
+      "number": "3"
+    },
+    {
+      "input": "2 2\n=B1+B1 0\n0 0\n",
+      "output": "0 0\n0 0\n",
+      "number": "4"
+    }
+  ],
+  "2025-09/advanced/partition": [
+    {
+      "input": "6\n1\n5\n15\n679\n10000\n100000000000000\n",
+      "output": "1\n6\n243\n662554012\n515481589\n518260606\n",
+      "number": "1"
+    }
+  ],
+  "2025-06/beginner/Tracery": [
+    {
+      "input": "3 3\n1 0 1\n1 1 1\n1 0 1\n",
+      "output": "1 0 1 1 0 1\n1 1 1 1 1 1\n1 0 1 1 0 1\n1 0 1 1 0 1\n1 1 1 1 1 1\n1 0 1 1 0 1\n",
+      "number": "1"
+    },
+    {
+      "input": "5 1\n1 0 0 0 1\n",
+      "output": "1 0 0 0 1 1 0 0 0 1\n1 0 0 0 1 1 0 0 0 1\n",
+      "number": "2"
+    },
+    {
+      "input": "3 2\n1 0 0\n1 1 0\n",
+      "output": "1 0 0 0 0 1\n1 1 0 0 1 1\n1 1 0 0 1 1\n1 0 0 0 0 1\n",
+      "number": "3"
+    }
+  ],
+  "2025-06/beginner/Lunch": [
+    {
+      "input": "2 3\nbento riceball bento\npasta NA riceball\nsandwich\n",
+      "output": "0 0\n",
+      "number": "1"
+    },
+    {
+      "input": "3 3\nsalad NA pasta\nbento bento pasta\nriceball riceball bento\nbento\n",
+      "output": "2 1\n2 2\n3 3\n",
+      "number": "2"
+    },
+    {
+      "input": "3 3\nsalad NA pasta\nbento bento pasta\nriceball riceball bento\npasta\n",
+      "output": "1 3\n2 3\n",
+      "number": "3"
+    }
+  ],
+  "2025-06/beginner/Bridge": [
+    {
+      "input": "SA HK D10 C2 S9 HJ DQ CK S2 H3 D5 C7 SJ\n",
+      "output": "4 3 3 3\n14\n",
+      "number": "1"
+    },
+    {
+      "input": "S2 S3 S4 S5 S6 S7 S8 S9 S10 SJ SQ SK SA\n",
+      "output": "13 0 0 0\n10\n",
+      "number": "2"
+    }
+  ],
+  "2025-06/advanced/Island": [
+    {
+      "input": "5 5\n1 0 0 0 0\n0 0 0 0 1\n0 0 0 1 1\n1 1 1 1 0\n0 0 1 1 1\n",
+      "output": "2\n",
+      "number": "1"
+    },
+    {
+      "input": "5 5\n1 2 0 0 1\n1 2 0 0 1\n0 2 0 2 1\n0 2 0 2 1\n0 0 0 2 1\n",
+      "output": "9\n",
+      "number": "2"
+    },
+    {
+      "input": "1 10\n1 0 0 0 2 0 1 1 1 1\n",
+      "output": "-1\n",
+      "number": "3"
+    }
+  ],
+  "2025-06/advanced/Upgrade": [
+    {
+      "input": "10 3\n4\n2 3\n3 5\n5 2\n1 5\n",
+      "output": "1\n",
+      "number": "1"
+    },
+    {
+      "input": "1000000 0\n5\n0 120000000\n30 60\n250000 11000\n1334 2147483648\n365 400000\n",
+      "output": "0\n",
+      "number": "2"
+    }
+  ],
+  "2025-06/advanced/Permutation": [
+    {
+      "input": "3 4\n3 4 2\n",
+      "output": "17\n",
+      "number": "1"
+    },
+    {
+      "input": "3 3\n1 3 2\n",
+      "output": "1\n",
+      "number": "2"
+    },
+    {
+      "input": "5 9\n7 4 2 5 3\n",
+      "output": "10751\n",
+      "number": "3"
+    },
+    {
+      "input": "7 19\n18 6 2 1 9 3 5\n",
+      "output": "230980751\n",
+      "number": "4"
+    }
+  ],
+  "2025-04/beginner/Recipe": [
+    {
+      "input": "3 2\n100 250 80 4\n",
+      "output": "200 500 160\n",
+      "number": "1"
+    },
+    {
+      "input": "2 4\n120 240 1\n",
+      "output": "30 60\n",
+      "number": "2"
+    },
+    {
+      "input": "3 114\n799 342 684 275\n",
+      "output": "1928 825 1650\n",
+      "number": "3"
+    }
+  ],
+  "2025-04/beginner/Examination": [
+    {
+      "input": "12 14 7 12 13 11\n13 12 10 9 7\n13 11 8 4 3\n11 9 6 4 3\n12 10 6 4 3\n13 12 10 8 7\n13 12 9 7 5\n",
+      "output": "B\nA\nC\nA\nA\nC\n",
+      "number": "1"
+    },
+    {
+      "input": "13 14 0 12 8 0\n13 13 10 9 7\n13 11 8 4 3\n11 9 6 4 3\n12 10 6 4 3\n13 12 8 8 7\n13 12 9 7 5\n",
+      "output": "A\nA\nX\nA\nC\nX\n",
+      "number": "2"
+    }
+  ],
+  "2025-04/beginner/TreasureBox": [
+    {
+      "input": "8\n89 4 5 9 55 7 99 57\n",
+      "output": "99\n",
+      "number": "1"
+    },
+    {
+      "input": "10\n7 8 20 11 10 2 8 7 2 30\n",
+      "output": "7\n",
+      "number": "2"
+    }
+  ],
+  "2025-04/advanced/Building": [
+    {
+      "input": "3\n7 9\n6 3\n3 8\n",
+      "output": "162\n",
+      "number": "1"
+    },
+    {
+      "input": "3\n3 1\n1 1\n2 1\n",
+      "output": "10\n",
+      "number": "2"
+    },
+    {
+      "input": "3\n1 4\n5 2\n1 4\n",
+      "output": "26\n",
+      "number": "3"
+    },
+    {
+      "input": "3\n2 1\n1 1\n5 5\n",
+      "output": "39\n",
+      "number": "4"
+    }
+  ],
+  "2025-04/advanced/Pipe": [
+    {
+      "input": "5\n2 9 3 6 1\n7 4 2 3 5\n",
+      "output": "15\n",
+      "number": "1"
+    },
+    {
+      "input": "4\n2 9 3 7\n5 4 1 4\n",
+      "output": "12\n",
+      "number": "2"
+    },
+    {
+      "input": "6\n9 6 1 1 4 9\n1 8 3 4 8 8\n",
+      "output": "24\n",
+      "number": "3"
+    },
+    {
+      "input": "3\n1 2 3\n2 3 1\n",
+      "output": "5\n",
+      "number": "4"
+    }
+  ],
+  "2025-04/advanced/Supply": [
+    {
+      "input": "4 5 3\n0 1 2\n0 2 3\n0 3 2\n1 2 1\n2 3 4\n1 2 4\n0 2 3\n0 1 1\n7\n",
+      "output": "2\n",
+      "number": "1"
+    },
+    {
+      "input": "3 3 7\n0 1 3\n0 2 4\n1 2 5\n0 1 1\n0 1 1\n0 1 1\n0 1 1\n0 1 1\n0 1 1\n0 1 1\n12\n",
+      "output": "-1\n",
+      "number": "2"
+    },
+    {
+      "input": "5 8 1\n0 1 3\n0 2 2\n0 4 1\n1 3 2\n1 4 1\n2 3 2\n2 4 3\n3 4 1\n0 1 2\n4\n",
+      "output": "0\n",
+      "number": "3"
+    }
+  ],
+  "2025-03/beginner/Gravitation": [
+    {
+      "input": "4 8 2\n",
+      "output": "48\n",
+      "number": "1"
+    },
+    {
+      "input": "1 1 1\n",
+      "output": "6\n",
+      "number": "2"
+    }
+  ],
+  "2025-03/beginner/MRT": [
+    {
+      "input": "12\n20 20 25 30 20 15 25 20 35 30 20 20\n",
+      "output": "266\n",
+      "number": "1"
+    },
+    {
+      "input": "50\n65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65\n",
+      "output": "1200\n",
+      "number": "2",
+      "note": "官方 PDF 以「65 65 [略 …] 65」表示；依官方範例說明展開為 50 筆 65。"
+    },
+    {
+      "input": "10\n65 65 65 65 65 65 65 65 65 65\n",
+      "output": "650\n",
+      "number": "3"
+    }
+  ],
+  "2025-03/beginner/Numbers": [
+    {
+      "input": "3\n",
+      "output": "5 4 8\n",
+      "number": "1"
+    },
+    {
+      "input": "100\n",
+      "output": "101 121 125\n",
+      "number": "2"
+    }
+  ],
+  "2025-03/advanced/Encryption": [
+    {
+      "input": "5\n11 1\n6 2\n255 126\n2 2\n19 16\n",
+      "output": "10 6\n4 4\n129 127\n0 0\n3 1\n",
+      "number": "1"
+    }
+  ],
+  "2025-03/advanced/Ski": [
+    {
+      "input": "6\n15 55\n15 35 55 25 75 55\n",
+      "output": "2\n",
+      "number": "1"
+    },
+    {
+      "input": "5\n100 100\n100 100 100 100 100\n",
+      "output": "15\n",
+      "number": "2"
+    },
+    {
+      "input": "20\n60 90\n20 60 70 90 50 80 100 90 50 40 60 30 100 90 90 70 60 80 60 90\n",
+      "output": "13\n",
+      "number": "3"
+    }
+  ],
+  "2025-03/advanced/Police": [
+    {
+      "input": "4 7\n4 3 4\n3 0 2\n7 6 7\n5 4 5\n",
+      "output": "4 9\n",
+      "number": "1"
+    },
+    {
+      "input": "5 7\n8 4 4\n4 2 7\n4 1 4\n6 0 2\n2 2 3\n",
+      "output": "2 16\n",
+      "number": "2"
+    },
+    {
+      "input": "3 7\n5 0 1\n4 2 7\n6 4 4\n",
+      "output": "4 10\n",
+      "number": "3"
+    },
+    {
+      "input": "4 3\n2 2 3\n9 1 3\n1 0 3\n5 1 1\n",
+      "output": "1 15\n",
+      "number": "4"
+    }
+  ],
+  "2023-10/advanced/Stocks": [
+    {
+      "input": "4 2\n5 3 4 5\n",
+      "output": "-1 4 -1 -1\n",
+      "number": "1"
+    },
+    {
+      "input": "7 3\n4 5 3 2 6 8 7\n",
+      "output": "6 6 5 5 -1 -1 -1\n",
+      "number": "2"
+    },
+    {
+      "input": "9 4\n3 6 5 6 8 5 9 7 10\n",
+      "output": "5 9 7 9 -1 7 -1 -1 -1\n",
+      "number": "3"
+    },
+    {
+      "input": "6 1\n3 2 3 4 5 5\n",
+      "output": "4 3 4 5 -1 -1\n",
+      "number": "4"
+    },
+    {
+      "input": "6 3\n4 4 6 7 7 9\n",
+      "output": "4 4 6 -1 -1 -1\n",
+      "number": "5"
+    }
+  ],
+  "2020-04/advanced/A3-Escape": [
+    {
+      "input": "3 2\n1L 2L S\n2L 3R S\n",
+      "output": "Easy Peasy\n",
+      "number": "1"
+    },
+    {
+      "input": "3 3\n1L 2L S\n2L 3R S\n3L 1R D\n",
+      "output": "Impossible\n",
+      "number": "2"
+    }
+  ]
+}
